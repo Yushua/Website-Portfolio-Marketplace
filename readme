@@ -1,0 +1,36 @@
+Project has a webpage where one cna create an account, login, and then go through the pages
+I created for my protfolio
+
+right now planned
+
+- marketplace
+
+here you can sell, buy and set items you want to buy.
+
+there is a page for each of them, to simple showcase microservice functionality.
+There is a page to also have a fake delivery service. so you get a notification
+when it is done. the time it take is set by the seller.
+
+- booking hotels
+
+crate a website where I can set hotels, rooms, and reseve these rooms.
+
+You cna look up hotels, or the specific rooms. by searching location and the preferences
+
+right now its simple, its city, number of beds/large beds. Wifi, breakfast, parking. 
+
+ther eis a sytem that keeps in check the date that one can fill in the hotel room. a simple project to showcase a wider aspect of a website.
+
+planned portfolio
+
+- website to showcase .Net
+- webpage to showcase vue (no need for backend)
+- security projects
+- vulnerability scanner
+- password cracker
+- network trafic analysis
+- pay system where you have money you cna buy and sell. still need project under it
+
+personal projects
+- educational. a wrebsite to showcase certain spots in the entherlands with bits of information
+-  a map of carbon monoxide levels.
