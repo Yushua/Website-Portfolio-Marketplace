@@ -11,8 +11,6 @@ import { JwtService } from '@nestjs/jwt';
 import { HotelsModule } from './hotels/hotels.module';
 import { HotelRooms } from './hotels/hotel-rooms.entity';
 import { Hotels } from './hotels/hotels.entity';
-import { MarketplaceModule } from './marketplace/marketplace.module';
-import { PayoutModule } from './payout/payout.module';
 
 @Module({
   imports: [
@@ -31,8 +29,6 @@ import { PayoutModule } from './payout/payout.module';
     }),
     AuthModule,
     HotelsModule,
-    MarketplaceModule,
-    PayoutModule,
   ],
   controllers: [AuthController],
   providers: [AuthService, JwtService],
